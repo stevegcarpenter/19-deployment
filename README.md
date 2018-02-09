@@ -1,7 +1,7 @@
 # Lab 19: Deployment
 
 [![Build Status](https://travis-ci.org/stevegcarpenter/19-deployment.svg?branch=master)](https://travis-ci.org/stevegcarpenter/19-deployment)
-
+[![Coverage Status](https://coveralls.io/repos/github/stevegcarpenter/19-deployment/badge.svg?branch=master)](https://coveralls.io/github/stevegcarpenter/19-deployment?branch=master)
 **Author**: Steve Carpenter
 **Version**: 1.0.0
 
