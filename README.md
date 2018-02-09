@@ -1,5 +1,7 @@
 # Lab 19: Deployment
 
+[![Build Status](https://travis-ci.org/stevegcarpenter/19-deployment.svg?branch=master)](https://travis-ci.org/stevegcarpenter/19-deployment)
+
 **Author**: Steve Carpenter
 **Version**: 1.0.0
 
