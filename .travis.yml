@@ -18,7 +18,7 @@ branches:
   - master
   - staging
   - development
-  before_script: npm i
-  script:
-    # - npm run lint
-    - npm test
+before_script: npm i
+script:
+  - npm run lint
+  - npm test
