@@ -3,7 +3,6 @@
 const fs = require('fs');
 const del = require('del');
 const path = require('path');
-const Car = require('./car');
 const mongoose = require('mongoose');
 const tempDir = `${__dirname}/../temp`;
 const awsS3 = require('../lib/aws-s3');
@@ -44,7 +43,7 @@ Photo.statics.upload = function (req) {
 
         resolve(photoData);
       })
-      .catch(reject)
+      .catch(reject);
   });
 };
 
